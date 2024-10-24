@@ -1,13 +1,3 @@
-# Verificação de Semelhança de Triângulos
-
-Este repositório contém um programa em Python que verifica automaticamente a semelhança entre dois triângulos com base nos critérios geométricos clássicos: **LAL (Lado-Ângulo-Lado)**, **AA (Ângulo-Ângulo)** e **LLL (Lado-Lado-Lado)**.
-
-## Objetivo
-
-O objetivo deste projeto é aplicar conceitos de geometria e programação para verificar se dois triângulos são semelhantes, utilizando os três critérios mais comuns. O programa compara os lados e ângulos fornecidos e determina se os triângulos são semelhantes.
-
-## Critérios de Semelhança
-
 O programa utiliza três critérios clássicos de semelhança de triângulos:
 
 1. **LAL (Lado-Ângulo-Lado):**
@@ -33,15 +23,3 @@ O programa utiliza três critérios clássicos de semelhança de triângulos:
    - Se os triângulos forem semelhantes por qualquer um dos critérios, o programa imprime uma mensagem indicando qual critério foi atendido.
    - Se nenhum critério for atendido, o programa informa que os triângulos não são semelhantes.
 
-## Exemplo de Execução
-
-### Entrada:
-Triângulo 1:
-- Lados: 3, 4, 5
-- Ângulos: 60°, 90°
-
-Triângulo 2:
-- Lados: 6, 8, 10
-- Ângulos: 60°, 90°
-
-### Saída:
